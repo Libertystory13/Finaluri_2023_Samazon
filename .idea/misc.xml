@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Samazon/app/src/main/res/drawable/border.xml" value="0.3828125" />
+        <entry key="..\:/Samazon/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.3828125" />
+        <entry key="..\:/Samazon/app/src/main/res/drawable/ic_baseline_add_shopping_cart_24.xml" value="0.3828125" />
+        <entry key="..\:/Samazon/app/src/main/res/drawable/ic_baseline_shopping_bag_24.xml" value="0.3828125" />
+        <entry key="..\:/Samazon/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Samazon/app/src/main/res/layout/activity_change_password.xml" value="0.20520833333333333" />
+        <entry key="..\:/Samazon/app/src/main/res/layout/activity_forgot_password.xml" value="0.2957427536231884" />
+        <entry key="..\:/Samazon/app/src/main/res/layout/activity_login.xml" value="0.20520833333333333" />
+        <entry key="..\:/Samazon/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Samazon/app/src/main/res/layout/activity_profile.xml" value="0.2957427536231884" />
+        <entry key="..\:/Samazon/app/src/main/res/layout/activity_register.xml" value="0.2957427536231884" />
+        <entry key="..\:/Samazon/app/src/main/res/layout/fragment_add_item.xml" value="0.28306159420289856" />
+        <entry key="..\:/Samazon/app/src/main/res/layout/fragment_cart.xml" value="0.25" />
+        <entry key="..\:/Samazon/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Samazon/app/src/main/res/layout/fragment_settings.xml" value="0.28306159420289856" />
+        <entry key="..\:/Samazon/app/src/main/res/layout/fragment_store.xml" value="0.28306159420289856" />
+        <entry key="..\:/Samazon/app/src/main/res/layout/single_item.xml" value="0.33" />
+        <entry key="..\:/Samazon/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Samazon/app/src/main/res/menu/top_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/user/Desktop/Final-Exam19jan/app/src/main/res/drawable/border.xml" value="0.3828125" />
+        <entry key="..\:/Users/user/Desktop/Final-Exam19jan/app/src/main/res/drawable/ic_baseline_add_a_photo_24.xml" value="0.21875" />
+        <entry key="..\:/Users/user/Desktop/Final-Exam19jan/app/src/main/res/drawable/round.xml" value="0.3828125" />
+        <entry key="..\:/Users/user/Desktop/Final-Exam19jan/app/src/main/res/layout/activity_change_password.xml" value="0.33" />
+        <entry key="..\:/Users/user/Desktop/Final-Exam19jan/app/src/main/res/layout/activity_forgot_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/user/Desktop/Final-Exam19jan/app/src/main/res/layout/activity_profile.xml" value="0.3625" />
+        <entry key="..\:/Users/user/Desktop/Final-Exam19jan/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/user/Desktop/Final-Exam19jan/app/src/main/res/layout/fragment_add_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/user/Desktop/Final-Exam19jan/app/src/main/res/layout/fragment_cart.xml" value="0.3625" />
+        <entry key="..\:/Users/user/Desktop/Final-Exam19jan/app/src/main/res/layout/fragment_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/user/Desktop/Final-Exam19jan/app/src/main/res/layout/fragment_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/user/Desktop/Final-Exam19jan/app/src/main/res/layout/fragment_store.xml" value="0.3625" />
+        <entry key="..\:/Users/user/Desktop/Final-Exam19jan/app/src/main/res/layout/single_item.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

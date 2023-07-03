@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "49346414356",
+    "firebase_url": "https://fir-bb9ea-default-rtdb.firebaseio.com",
+    "project_id": "fir-bb9ea",
+    "storage_bucket": "fir-bb9ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49346414356:android:f1ad5339dab3646761a401",
+        "android_client_info": {
+          "package_name": "com.example.samazon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49346414356-59tp5b0rmvcf2hri2hvujnl3fr015f3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfl9g1sSWeJFbdYZUR8_BHcOhQGEU5ksM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49346414356-59tp5b0rmvcf2hri2hvujnl3fr015f3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
